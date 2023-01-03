@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"CRUD test","This will create a new user","SUCCESS","2023-01-03T22:12:22.693Z[Europe/London]","0.0","7.95"
+"CRUD test","Verify is the user was added to the database","SUCCESS","2023-01-03T22:12:30.742Z[Europe/London]","0.0","2.11"
+"CRUD test","Update the user information and verify the updated information","SUCCESS","2023-01-03T22:12:32.850Z[Europe/London]","0.0","1.34"
+"CRUD test","Delete the user and verify if the user is deleted!","SUCCESS","2023-01-03T22:12:34.200Z[Europe/London]","0.0","0.99"
